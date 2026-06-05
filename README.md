@@ -33,7 +33,7 @@ Automatically detects the user's operating system language and dynamically switc
 ### Extensible Database System
 New games, aliases, hardware requirements, and performance profiles can be added by simply updating the JSON database without modifying the application source code.
 
-# Why use RunX PC?
+## Why use RunX PC?
 
 RunX PC eliminates the guesswork. No more searching for requirements online or manually comparing specifications; everything is done in one place, quickly and efficiently.
 
