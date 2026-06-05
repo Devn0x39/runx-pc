@@ -27,8 +27,8 @@ JSON-based game database containing hardware requirements, storage usage, suppor
 ### Lightweight Architecture
 Designed with low resource consumption and fast execution times. Hardware analysis and game lookup operations are performed locally without requiring external services or internet connectivity.
 
-### Multi-Language Support
-Automatically detects the user's operating system language and dynamically switches the interface between supported languages.
+### Bilingual Interface Support
+Automatically detects the user's operating system language and switches the interface between English and Portuguese.
 
 ### Extensible Database System
 New games, aliases, hardware requirements, and performance profiles can be added by simply updating the JSON database without modifying the application source code.
