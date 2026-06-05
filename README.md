@@ -6,17 +6,32 @@ Built for simplicity and speed, RunX PC scans your system in seconds and compare
 
 Unlike generic system checkers, RunX PC focuses on real-world performance expectations, taking into account CPU, GPU, RAM, and VRAM to deliver more practical and useful results.
 
-# Key Features:
+## Key Features
 
-Automatic Hardware Detection - Instantly analyzes your CPU, GPU, and RAM
+### Automatic Hardware Detection
+Automatically collects and analyzes system specifications, including CPU, GPU, RAM, VRAM, operating system, and available storage, using native Windows hardware APIs and system queries.
 
-Intelligent Game Matching System - Supports multiple nicknames and search variations (e.g., “GTA V”, “gtav”, “gta 5”).
+### Intelligent Game Matching System
+Advanced alias-based search engine capable of resolving multiple game names, abbreviations, nicknames, and alternative titles (e.g., "GTA V", "GTAV", "GTA 5") into a single database entry.
 
-Results by Performance Level - Clear output: Minimum, Medium, Recommended, or Unplayable.
+### Performance Tier Evaluation
+Compares detected hardware against predefined minimum and recommended requirements, classifying compatibility into four performance tiers:
+- Recommended
+- Medium
+- Minimum
+- Unplayable
 
-Optimized Game Database - Carefully structured data with performance expectations and hardware requirements.
+### Structured Game Database
+JSON-based game database containing hardware requirements, storage usage, supported operating systems, performance targets, optimization tags, and recommended hardware profiles.
 
-Lightweight and Fast - Minimal resource usage with instant responses.
+### Lightweight Architecture
+Designed with low resource consumption and fast execution times. Hardware analysis and game lookup operations are performed locally without requiring external services or internet connectivity.
+
+### Multi-Language Support
+Automatically detects the user's operating system language and dynamically switches the interface between supported languages.
+
+### Extensible Database System
+New games, aliases, hardware requirements, and performance profiles can be added by simply updating the JSON database without modifying the application source code.
 
 # Why use RunX PC?
 
