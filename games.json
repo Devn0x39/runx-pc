@@ -1,0 +1,5453 @@
+{
+  "gta iv": {
+    "name": "Grand Theft Auto IV",
+    "year": 2008,
+    "genre": ["open world", "action"],
+    "storage_gb": 22,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["cpu-heavy", "poor-optimization"],
+
+    "performance": {
+      "low": "30fps",
+      "medium": "45fps",
+      "high": "60fps"
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["core 2 duo", "core 2 quad", "i3"],
+      "gpu": ["geforce 8600", "radeon hd 3870"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5", "ryzen 5"],
+      "gpu": ["gtx 660", "radeon hd 7870"],
+      "vram": 2048
+    }
+  },
+
+  "gta 3": {
+    "name": "Grand Theft Auto III",
+    "year": 2001,
+    "genre": ["open world", "action"],
+    "storage_gb": 2,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["very-light", "old", "low-requirements"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 0.256,
+      "cpu": ["pentium iii", "athlon"],
+      "gpu": ["32mb video card"],
+      "vram": 32
+    },
+
+    "rec": {
+      "ram": 0.512,
+      "cpu": ["pentium 4", "athlon xp"],
+      "gpu": ["64mb video card"],
+      "vram": 64
+    }
+  },
+
+  "gta vice city": {
+    "name": "Grand Theft Auto: Vice City",
+    "year": 2002,
+    "genre": ["open world", "action"],
+    "storage_gb": 2,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["very-light", "old", "low-requirements"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+  },
+
+    "min": {
+      "ram": 0.256,
+      "cpu": ["pentium iii", "athlon"],
+      "gpu": ["32mb video card"],
+      "vram": 32
+  },
+
+    "rec": {
+      "ram": 0.512,
+      "cpu": ["pentium 4", "athlon xp"],
+      "gpu": ["64mb video card"],
+      "vram": 64
+    }
+  }, 
+
+  "gta san andreas": {
+    "name": "Grand Theft Auto: San Andreas",
+    "year": 2004,
+    "genre": ["open world", "action"],
+    "storage_gb": 4,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["very-light", "old", "low-requirements"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 0.256,
+      "cpu": ["pentium iii", "athlon"],
+      "gpu": ["64mb video card"],
+      "vram": 64
+    },
+
+    "rec": {
+      "ram": 1,
+      "cpu": ["pentium 4", "athlon xp"],
+      "gpu": ["128mb video card"],
+      "vram": 128
+    }
+  },
+
+  "gta v": {
+    "name": "Grand Theft Auto V",
+    "year": 2015,
+    "genre": ["open world", "action"],
+    "storage_gb": 110,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-3470", "fx-8350"],
+      "gpu": ["gtx 660", "radeon hd 7870"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-4770", "ryzen 5 1600"],
+      "gpu": ["gtx 1060", "rx 580"],
+      "vram": 6144
+    }
+  },
+
+  "gta v enhanced": {
+    "name": "Grand Theft Auto V Enhanced",
+    "year": 2022,
+    "genre": ["open world", "action"],
+    "storage_gb": 120,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "next-gen", "high-vram"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i7-6700", "ryzen 5 2600"],
+      "gpu": ["gtx 1660", "rx 5600 xt"],
+      "vram": 6144
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-10700k", "ryzen 7 3700x"],
+      "gpu": ["rtx 3060", "rx 6700 xt"],
+      "vram": 8192
+    }
+  },
+
+  "bully": {
+    "name": "Bully: Scholarship Edition",
+    "year": 2008,
+    "genre": ["open world", "action"],
+    "storage_gb": 5,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["light", "cpu-light", "old"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["pentium 4", "athlon xp"],
+      "gpu": ["geforce 6200", "radeon x1300"],
+      "vram": 128
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo", "athlon 64 x2"],
+      "gpu": ["geforce 8600", "radeon hd 3650"],
+      "vram": 256
+    }
+  },
+
+  "red dead redemption": {
+    "name": "Red Dead Redemption",
+    "year": 2024,
+    "genre": ["open world", "action"],
+    "storage_gb": 12,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["cpu-heavy", "gpu-medium", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-4670", "fx-9590"],
+      "gpu": ["gtx 960", "r7 360"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5-8500", "ryzen 5 3500x"],
+      "gpu": ["rtx 2070", "rx 5700 xt"],
+      "vram": 8192
+    }
+  },
+
+  "red dead redemption 2": {
+    "name": "Red Dead Redemption 2",
+    "year": 2019,
+    "genre": ["open world", "action"],
+    "storage_gb": 150,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "cpu-heavy", "heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2500k", "fx-6300"],
+      "gpu": ["gtx 770", "radeon r9 280"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-4770k", "ryzen 5 1500x"],
+      "gpu": ["gtx 1060", "rx 480"],
+      "vram": 6144
+    }
+  },
+
+  "l.a noire": {
+    "name": "L.A. Noire",
+    "year": 2011,
+    "genre": ["open world", "detective"],
+    "storage_gb": 20,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["cpu-heavy", "facial-tech", "medium"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["geforce 8600", "radeon hd 3000"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5", "phenom x4"],
+      "gpu": ["gtx 560", "radeon hd 6850"],
+      "vram": 1024
+    }
+  },
+
+  "max payne 3": {
+    "name": "Max Payne 3",
+    "year": 2012,
+    "genre": ["action", "shooter"],
+    "storage_gb": 35,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["gpu-heavy", "well-optimized", "medium"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["geforce 8600", "radeon hd 3400"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7", "fx-8150"],
+      "gpu": ["gtx 680", "radeon hd 7970"],
+      "vram": 2048
+    }
+  },
+
+  "manhunt": {
+    "name": "Manhunt",
+    "year": 2003,
+    "genre": ["action", "stealth"],
+    "storage_gb": 2,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["very-light", "old", "low-requirements"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 0.256,
+      "cpu": ["pentium iii", "athlon"],
+      "gpu": ["32mb video card"],
+      "vram": 32
+    },
+
+    "rec": {
+      "ram": 0.512,
+      "cpu": ["pentium 4", "athlon xp"],
+      "gpu": ["64mb video card"],
+      "vram": 64
+    }
+  },
+
+  "max payne 2": {
+    "name": "Max Payne 2: The Fall of Max Payne",
+    "year": 2003,
+    "genre": ["action", "shooter"],
+    "storage_gb": 2,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["very-light", "old", "low-requirements"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 0.256,
+      "cpu": ["pentium iii", "athlon"],
+      "gpu": ["32mb video card"],
+      "vram": 32
+    },
+
+    "rec": {
+      "ram": 0.512,
+      "cpu": ["pentium 4", "athlon xp"],
+      "gpu": ["64mb video card"],
+      "vram": 64
+    }
+  },
+
+  "gta 3 definitive": {
+    "name": "Grand Theft Auto III – The Definitive Edition",
+    "year": 2021,
+    "genre": ["open world", "action"],
+    "storage_gb": 10,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "poor-optimization", "remaster"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-6600k", "fx-6300"],
+      "gpu": ["gtx 760", "radeon r9 280"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-2700k", "ryzen 5 2600"],
+      "gpu": ["gtx 970", "rx 570"],
+      "vram": 4096
+    }
+  },
+
+  "gta vice city definitive": {
+    "name": "Grand Theft Auto: Vice City – The Definitive Edition",
+    "year": 2021,
+    "genre": ["open world", "action"],
+    "storage_gb": 10,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "poor-optimization", "remaster"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-6600k", "fx-6300"],
+      "gpu": ["gtx 760", "radeon r9 280"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-2700k", "ryzen 5 2600"],
+      "gpu": ["gtx 970", "rx 570"],
+      "vram": 4096
+    }
+  },
+
+  "gta san andreas definitive": {
+    "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
+    "year": 2021,
+    "genre": ["open world", "action"],
+    "storage_gb": 15,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "poor-optimization", "remaster"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-6600k", "fx-6300"],
+      "gpu": ["gtx 760", "radeon r9 280"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-2700k", "ryzen 5 2600"],
+      "gpu": ["gtx 970", "rx 570"],
+      "vram": 4096
+    }
+  },
+
+  "red dead online": {
+    "name": "Red Dead Online",
+    "year": 2019,
+    "genre": ["open world", "multiplayer"],
+    "storage_gb": 150,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "cpu-heavy", "online", "heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2500k", "fx-6300"],
+      "gpu": ["gtx 770", "radeon r9 280"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-4770k", "ryzen 5 1500x"],
+      "gpu": ["gtx 1060", "rx 480"],
+      "vram": 6144
+    }
+  },
+
+  "assassins creed": {
+    "name": "Assassin's Creed",
+    "year": 2007,
+    "genre": ["open world", "action", "stealth"],
+    "storage_gb": 8,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["light", "old", "low-requirements"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon 64 x2"],
+      "gpu": ["geforce 6800", "radeon x1600"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "phenom x4"],
+      "gpu": ["geforce 8800", "radeon hd 2900"],
+      "vram": 512
+    }
+  },
+
+  "assassins creed 2": {
+    "name": "Assassin's Creed II",
+    "year": 2009,
+    "genre": ["open world", "action", "stealth"],
+    "storage_gb": 10,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["light", "old", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon 64 x2"],
+      "gpu": ["geforce 8600", "radeon hd 2600"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "phenom x4"],
+      "gpu": ["geforce 9800", "radeon hd 4870"],
+      "vram": 512
+    }
+  },
+
+  "assassins creed brotherhood": {
+    "name": "Assassin's Creed Brotherhood",
+    "year": 2010,
+    "genre": ["open world", "action", "stealth"],
+    "storage_gb": 12,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["light", "well-optimized", "medium"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon 64 x2"],
+      "gpu": ["geforce 8800", "radeon hd 3850"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "phenom x4"],
+      "gpu": ["geforce gtx 460", "radeon hd 5850"],
+      "vram": 1024
+    }
+  },
+
+  "assassins creed revelations": {
+    "name": "Assassin's Creed Revelations",
+    "year": 2011,
+    "genre": ["open world", "action", "stealth"],
+    "storage_gb": 12,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["medium", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon 64 x2"],
+      "gpu": ["geforce 8800", "radeon hd 3850"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "phenom x4"],
+      "gpu": ["geforce gtx 460", "radeon hd 5850"],
+      "vram": 1024
+    }
+  },
+
+  "assassins creed 3": {
+    "name": "Assassin's Creed III",
+    "year": 2012,
+    "genre": ["open world", "action", "stealth"],
+    "storage_gb": 17,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["medium", "cpu-heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "phenom ii x4"],
+      "gpu": ["geforce gts 450", "radeon hd 5770"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5-2400", "fx-6100"],
+      "gpu": ["gtx 560", "radeon hd 6870"],
+      "vram": 2048
+    }
+  },
+
+  "assassins creed liberation": {
+    "name": "Assassin's Creed Liberation HD",
+    "year": 2014,
+    "genre": ["open world", "action", "stealth"],
+    "storage_gb": 7,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["light", "portable-port"],
+
+    "performance": {
+      "low": 60,
+      "medium": 90,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon 64 x2"],
+      "gpu": ["geforce 8800", "radeon hd 3850"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "phenom x4"],
+      "gpu": ["gtx 460", "radeon hd 5850"],
+      "vram": 1024
+    }
+  },
+
+  "assassins creed black flag": {
+    "name": "Assassin's Creed IV: Black Flag",
+    "year": 2013,
+    "genre": ["open world", "action", "stealth"],
+    "storage_gb": 30,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["gpu-heavy", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "phenom ii x4"],
+      "gpu": ["gtx 260", "radeon hd 4870"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5-2400", "fx-8120"],
+      "gpu": ["gtx 760", "radeon hd 7970"],
+      "vram": 2048
+    }
+  },
+
+  "assassins creed rogue": {
+    "name": "Assassin's Creed Rogue",
+    "year": 2015,
+    "genre": ["open world", "action", "stealth"],
+    "storage_gb": 12,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["medium", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon 64 x2"],
+      "gpu": ["gtx 460", "radeon hd 4870"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["i5", "phenom x4"],
+      "gpu": ["gtx 560", "radeon hd 6850"],
+      "vram": 1024
+    }
+  },
+
+  "assassins creed unity": {
+    "name": "Assassin's Creed Unity",
+    "year": 2014,
+    "genre": ["open world", "action", "stealth"],
+    "storage_gb": 50,
+    "os": ["windows 10"],
+    "tags": ["cpu-heavy", "gpu-heavy", "poor-optimization"],
+
+    "performance": {
+      "low": 30,
+      "medium": 45,
+      "high": 60
+    },
+
+    "min": {
+      "ram": 6,
+      "cpu": ["i5-2500k", "fx-6350"],
+      "gpu": ["gtx 680", "radeon hd 7970"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7-3770", "fx-8350"],
+      "gpu": ["gtx 780", "r9 290x"],
+      "vram": 3072
+    }
+  },
+
+  "assassins creed syndicate": {
+    "name": "Assassin's Creed Syndicate",
+    "year": 2015,
+    "genre": ["open world", "action", "stealth"],
+    "storage_gb": 50,
+    "os": ["windows 10"],
+    "tags": ["gpu-heavy", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 6,
+      "cpu": ["i5-2400", "fx-6350"],
+      "gpu": ["gtx 660", "r9 270"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7-3770", "fx-8350"],
+      "gpu": ["gtx 760", "r9 280x"],
+      "vram": 4096
+    }
+  },
+
+  "assassins creed origins": {
+    "name": "Assassin's Creed Origins",
+    "year": 2017,
+    "genre": ["open world", "rpg", "action"],
+    "storage_gb": 45,
+    "os": ["windows 10"],
+    "tags": ["gpu-heavy", "cpu-heavy", "rpg"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2400", "fx-6350"],
+      "gpu": ["gtx 660", "r9 270"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-3770", "ryzen 5 1600"],
+      "gpu": ["gtx 1060", "rx 580"],
+      "vram": 6144
+    }
+  },
+
+  "assassins creed odyssey": {
+    "name": "Assassin's Creed Odyssey",
+    "year": 2018,
+    "genre": ["open world", "rpg", "action"],
+    "storage_gb": 60,
+    "os": ["windows 10"],
+    "tags": ["gpu-heavy", "cpu-heavy", "rpg", "heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 80
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2400", "fx-6300"],
+      "gpu": ["gtx 660", "r9 285"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-3770", "ryzen 5 2600"],
+      "gpu": ["gtx 1060", "rx 590"],
+      "vram": 6144
+    }
+  },
+
+  "assassins creed valhalla": {
+    "name": "Assassin's Creed Valhalla",
+    "year": 2020,
+    "genre": ["open world", "rpg", "action"],
+    "storage_gb": 80,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "cpu-heavy", "rpg", "heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["ryzen 3 1200", "i5-4460"],
+      "gpu": ["gtx 960", "r9 380"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["ryzen 5 1600", "i7-6700"],
+      "gpu": ["gtx 1080", "rx 5700 xt"],
+      "vram": 8192
+    }
+  },
+
+  "assassins creed mirage": {
+    "name": "Assassin's Creed Mirage",
+    "year": 2023,
+    "genre": ["open world", "action", "stealth"],
+    "storage_gb": 40,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "well-optimized", "modern"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-4460", "ryzen 3 1200"],
+      "gpu": ["gtx 1060", "rx 570"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-8700k", "ryzen 5 3600"],
+      "gpu": ["rtx 2070", "rx 5700 xt"],
+      "vram": 8192
+    }
+  },
+
+  "assassins creed shadows": {
+    "name": "Assassin's Creed Shadows",
+    "year": 2025,
+    "genre": ["open world", "rpg", "action"],
+    "storage_gb": 100,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "cpu-heavy", "next-gen", "heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i7-8700", "ryzen 5 3600"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-12700k", "ryzen 7 5800x"],
+      "gpu": ["rtx 3080", "rx 6800 xt"],
+      "vram": 12288
+    }
+  },
+
+  "far cry": {
+    "name": "Far Cry",
+    "year": 2004,
+    "genre": ["fps", "action"],
+    "storage_gb": 4,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["very-light", "old", "low-requirements"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 0.256,
+      "cpu": ["pentium 4", "athlon xp"],
+      "gpu": ["64mb video card"],
+      "vram": 64
+    },
+
+    "rec": {
+      "ram": 0.512,
+      "cpu": ["pentium 4", "athlon xp"],
+      "gpu": ["128mb video card"],
+      "vram": 128
+    }
+  },
+
+  "far cry 2": {
+    "name": "Far Cry 2",
+    "year": 2008,
+    "genre": ["fps", "action"],
+    "storage_gb": 4,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["light", "well-optimized"],
+
+    "performance": {
+      "low": 60,
+      "medium": 90,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["pentium d", "athlon 64 x2"],
+      "gpu": ["geforce 6800", "radeon x1650"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["geforce 8800", "radeon hd 2900"],
+      "vram": 512
+    }
+  },
+
+  "far cry 3": {
+    "name": "Far Cry 3",
+    "year": 2012,
+    "genre": ["fps", "action"],
+    "storage_gb": 15,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["medium", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["gtx 8800", "radeon hd 2900"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i3", "fx-6300"],
+      "gpu": ["gtx 560", "radeon hd 6870"],
+      "vram": 1024
+    }
+  },
+
+  "far cry 3 blood dragon": {
+    "name": "Far Cry 3: Blood Dragon",
+    "year": 2013,
+    "genre": ["fps", "action"],
+    "storage_gb": 10,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["medium", "well-optimized", "standalone-dlc"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["gtx 8800", "radeon hd 2900"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i3", "fx-6300"],
+      "gpu": ["gtx 560", "radeon hd 6870"],
+      "vram": 1024
+    }
+  },
+
+  "far cry 4": {
+    "name": "Far Cry 4",
+    "year": 2014,
+    "genre": ["fps", "action"],
+    "storage_gb": 30,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["gpu-heavy", "medium"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["i5-750", "phenom ii x4"],
+      "gpu": ["gtx 460", "radeon hd 5850"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5-2400", "fx-8350"],
+      "gpu": ["gtx 680", "radeon r9 290"],
+      "vram": 2048
+    }
+  },
+
+  "far cry primal": {
+    "name": "Far Cry Primal",
+    "year": 2016,
+    "genre": ["fps", "action"],
+    "storage_gb": 20,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["gpu-heavy", "medium"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["i3", "fx-6300"],
+      "gpu": ["gtx 460", "radeon hd 5770"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7", "fx-8350"],
+      "gpu": ["gtx 780", "radeon r9 280x"],
+      "vram": 3072
+    }
+  },
+
+  "far cry 5": {
+    "name": "Far Cry 5",
+    "year": 2018,
+    "genre": ["fps", "action"],
+    "storage_gb": 40,
+    "os": ["windows 10"],
+    "tags": ["gpu-heavy", "cpu-heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2400", "fx-6300"],
+      "gpu": ["gtx 670", "r9 270"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-4770", "ryzen 5 1600"],
+      "gpu": ["gtx 970", "rx 480"],
+      "vram": 4096
+    }
+  },
+
+  "far cry new dawn": {
+    "name": "Far Cry New Dawn",
+    "year": 2019,
+    "genre": ["fps", "action"],
+    "storage_gb": 30,
+    "os": ["windows 10"],
+    "tags": ["gpu-heavy", "cpu-heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2400", "fx-6350"],
+      "gpu": ["gtx 670", "r9 270"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-4790", "ryzen 5 1600"],
+      "gpu": ["gtx 970", "rx 480"],
+      "vram": 4096
+    }
+  },
+
+  "far cry 6": {
+    "name": "Far Cry 6",
+    "year": 2021,
+    "genre": ["fps", "action"],
+    "storage_gb": 100,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "cpu-heavy", "modern", "heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["ryzen 3 1200", "i5-4460"],
+      "gpu": ["gtx 960", "r9 380"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["ryzen 5 3600", "i7-7700"],
+      "gpu": ["rtx 2060", "rx 5700 xt"],
+      "vram": 8192
+    }
+  },
+
+  "assassin's creed 3 remastered": {
+    "name": "Assassin's Creed III Remastered",
+    "year": 2019,
+    "genre": ["open world", "action", "stealth"],
+    "storage_gb": 45,
+    "os": ["windows 10"],
+    "tags": ["gpu-heavy", "remaster", "medium"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2400", "fx-6300"],
+      "gpu": ["gtx 660", "radeon hd 7870"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7-3770", "ryzen 5 1600"],
+      "gpu": ["gtx 970", "rx 480"],
+      "vram": 4096
+    }
+  },
+
+  "sleeping dogs": {
+    "name": "Sleeping Dogs",
+    "year": 2012,
+    "genre": ["open world", "action"],
+    "storage_gb": 15,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["medium", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["gt 8800", "radeon hd 3870"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "i5"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "just cause 2": {
+    "name": "Just Cause 2",
+    "year": 2010,
+    "genre": ["open world", "action"],
+    "storage_gb": 10,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["medium", "cpu-light"],
+
+    "performance": {
+      "low": 60,
+      "medium": 90,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["dual core", "athlon x2"],
+      "gpu": ["geforce 8800", "radeon hd 2600"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["gtx 260", "radeon hd 4870"],
+      "vram": 512
+    }
+  },
+
+  "bioshock": {
+    "name": "BioShock",
+    "year": 2007,
+    "genre": ["fps", "action"],
+    "storage_gb": 8,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["light", "well-optimized"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["pentium 4", "athlon 64"],
+      "gpu": ["geforce 6600", "radeon x1300"],
+      "vram": 128
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["geforce 7900", "radeon x1900"],
+      "vram": 256
+    }
+  },
+
+  "bioshock 2": {
+    "name": "BioShock 2",
+    "year": 2010,
+    "genre": ["fps", "action"],
+    "storage_gb": 11,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["light", "well-optimized"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["geforce 7900", "radeon x1900"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "phenom x4"],
+      "gpu": ["gtx 260", "radeon hd 4870"],
+      "vram": 512
+    }
+  },
+
+  "bioshock infinite": {
+    "name": "BioShock Infinite",
+    "year": 2013,
+    "genre": ["fps", "action"],
+    "storage_gb": 20,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["medium", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["geforce 8800", "radeon hd 3870"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "i5"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "mirrors edge": {
+    "name": "Mirror's Edge",
+    "year": 2008,
+    "genre": ["action", "parkour"],
+    "storage_gb": 8,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["light", "well-optimized"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["geforce 6800", "radeon x1650"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "i5"],
+      "gpu": ["geforce 8800", "radeon hd 3870"],
+      "vram": 512
+    }
+  },
+
+  "batman arkham city": {
+    "name": "Batman: Arkham City",
+    "year": 2011,
+    "genre": ["action", "open world"],
+    "storage_gb": 17,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["medium", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["geforce 8800", "radeon hd 3850"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "i5"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "mafia 2": {
+    "name": "Mafia II",
+    "year": 2010,
+    "genre": ["open world", "action"],
+    "storage_gb": 8,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["medium", "cpu-heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["geforce 8600", "radeon hd 2600"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "i5"],
+      "gpu": ["gtx 460", "radeon hd 5850"],
+      "vram": 1024
+    }
+  },
+
+  "dead space": {
+    "name": "Dead Space",
+    "year": 2008,
+    "genre": ["horror", "action"],
+    "storage_gb": 10,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["light", "well-optimized"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 1,
+      "cpu": ["pentium 4", "athlon 64"],
+      "gpu": ["geforce 6800", "radeon x1600"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["geforce 8800", "radeon hd 3870"],
+      "vram": 512
+    }
+  },
+
+  "dead space 2": {
+    "name": "Dead Space 2",
+    "year": 2011,
+    "genre": ["horror", "action"],
+    "storage_gb": 10,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["light", "well-optimized"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["geforce 6800", "radeon x1600"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "i5"],
+      "gpu": ["geforce 8800", "radeon hd 3870"],
+      "vram": 512
+    }
+  },
+
+  "dead space 3": {
+    "name": "Dead Space 3",
+    "year": 2013,
+    "genre": ["horror", "action"],
+    "storage_gb": 15,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["medium", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["geforce 8800", "radeon hd 3870"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "i5"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "batman arkham asylum": {
+    "name": "Batman: Arkham Asylum",
+    "year": 2009,
+    "genre": ["action"],
+    "storage_gb": 10,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["light", "well-optimized"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["geforce 6600", "radeon x1300"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "i5"],
+      "gpu": ["geforce 8800", "radeon hd 3870"],
+      "vram": 512
+    }
+  },
+
+  "batman arkham knight": {
+    "name": "Batman: Arkham Knight",
+    "year": 2015,
+    "genre": ["action", "open world"],
+    "storage_gb": 55,
+    "os": ["windows 10"],
+    "tags": ["gpu-heavy", "poor-optimization", "heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 45,
+      "high": 60
+    },
+
+    "min": {
+      "ram": 6,
+      "cpu": ["i5-750", "fx-6100"],
+      "gpu": ["gtx 660", "radeon hd 7870"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7-3770", "fx-8350"],
+      "gpu": ["gtx 970", "r9 290"],
+      "vram": 4096
+    }
+  },
+
+  "saints row 2": {
+    "name": "Saints Row 2",
+    "year": 2008,
+    "genre": ["open world", "action"],
+    "storage_gb": 15,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["cpu-heavy", "poor-optimization"],
+
+    "performance": {
+      "low": 30,
+      "medium": 45,
+      "high": 60
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo", "athlon x2"],
+      "gpu": ["geforce 7600", "radeon x1300"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "i5"],
+      "gpu": ["gtx 260", "radeon hd 4870"],
+      "vram": 512
+    }
+  },
+
+  "saints row the third": {
+    "name": "Saints Row: The Third",
+    "year": 2011,
+    "genre": ["open world", "action"],
+    "storage_gb": 10,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["medium", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["dual core", "athlon x2"],
+      "gpu": ["gtx 260", "radeon hd 4870"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "i5"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "saints row iv": {
+    "name": "Saints Row IV",
+    "year": 2013,
+    "genre": ["open world", "action"],
+    "storage_gb": 10,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["medium", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["dual core", "athlon x2"],
+      "gpu": ["gtx 260", "radeon hd 4870"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad", "i5"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "saints row 2022": {
+    "name": "Saints Row",
+    "year": 2022,
+    "genre": ["open world", "action"],
+    "storage_gb": 50,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "modern", "heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i3-3240", "ryzen 3 1200"],
+      "gpu": ["gtx 970", "rx 480"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-7700", "ryzen 5 3600"],
+      "gpu": ["rtx 2060", "rx 5700"],
+      "vram": 8192
+    }
+  },
+
+  "cyberpunk 2077": {
+    "name": "Cyberpunk 2077",
+    "year": 2020,
+    "genre": ["open world", "rpg"],
+    "storage_gb": 70,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "cpu-heavy", "modern", "heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-3570k", "fx-8310"],
+      "gpu": ["gtx 970", "rx 470"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-12700", "ryzen 7 5800x"],
+      "gpu": ["rtx 3060", "rx 6700 xt"],
+      "vram": 8192
+    }
+  },
+
+  "alan wake 2": {
+    "name": "Alan Wake 2",
+    "year": 2023,
+    "genre": ["horror", "action"],
+    "storage_gb": 90,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "next-gen", "heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 60
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-7600k", "ryzen 5 2600"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-12700k", "ryzen 7 5800x"],
+      "gpu": ["rtx 3070", "rx 6800 xt"],
+      "vram": 12288
+    }
+  },
+
+  "black myth wukong": {
+    "name": "Black Myth: Wukong",
+    "year": 2024,
+    "genre": ["action", "rpg"],
+    "storage_gb": 130,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "next-gen", "heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-8400", "ryzen 5 1600"],
+      "gpu": ["rtx 2060", "rx 5700"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-12700k", "ryzen 7 5800x"],
+      "gpu": ["rtx 3080", "rx 6800 xt"],
+      "vram": 12288
+    }
+  },
+
+  "hollow knight silksong": {
+    "name": "Hollow Knight: Silksong",
+    "year": 2025,
+    "genre": ["metroidvania", "indie"],
+    "storage_gb": 10,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["very-light", "indie"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["dual core"],
+      "gpu": ["integrated"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i3"],
+      "gpu": ["gtx 750", "vega 8"],
+      "vram": 1024
+    }
+  },
+
+  "kingdom come deliverance 2": {
+    "name": "Kingdom Come: Deliverance II",
+    "year": 2025,
+    "genre": ["rpg", "open world"],
+    "storage_gb": 120,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["cpu-heavy", "gpu-heavy", "next-gen"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-8400", "ryzen 5 2600"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-12700k", "ryzen 7 5800x"],
+      "gpu": ["rtx 3070", "rx 6800"],
+      "vram": 12288
+    }
+  },
+
+  "doom the dark ages": {
+    "name": "DOOM: The Dark Ages",
+    "year": 2025,
+    "genre": ["fps", "action"],
+    "storage_gb": 100,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "well-optimized", "modern"],
+
+    "performance": {
+      "low": 60,
+      "medium": 100,
+      "high": 144
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-9600k", "ryzen 5 3600"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-12700k", "ryzen 7 5800x"],
+      "gpu": ["rtx 3080", "rx 6800 xt"],
+      "vram": 12288
+    }
+  },
+
+  "dying light the beast": {
+    "name": "Dying Light: The Beast",
+    "year": 2025,
+    "genre": ["action", "survival"],
+    "storage_gb": 80,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "cpu-heavy", "modern"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-8400", "ryzen 5 2600"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-12700k", "ryzen 7 5800x"],
+      "gpu": ["rtx 3070", "rx 6800"],
+      "vram": 12288
+    }
+  },
+
+  "civilization vii": {
+    "name": "Sid Meier's Civilization VII",
+    "year": 2025,
+    "genre": ["strategy"],
+    "storage_gb": 30,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["cpu-heavy", "modern"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i3", "ryzen 3"],
+      "gpu": ["gtx 970", "rx 570"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7", "ryzen 5"],
+      "gpu": ["rtx 3060", "rx 6700"],
+      "vram": 8192
+    }
+  },
+
+  "tony hawk pro skater 1+2": {
+    "name": "Tony Hawk's Pro Skater 1 + 2",
+    "year": 2020,
+    "genre": ["sports"],
+    "storage_gb": 25,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["light", "well-optimized"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 144
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i3-3225", "ryzen 3 1200"],
+      "gpu": ["gtx 660", "rx 460"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i5", "ryzen 5"],
+      "gpu": ["gtx 1060", "rx 580"],
+      "vram": 4096
+    }
+  },
+
+  "arc raiders": {
+    "name": "ARC Raiders",
+    "year": 2025,
+    "genre": ["multiplayer", "shooter"],
+    "storage_gb": 60,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "online", "modern"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 12,
+      "cpu": ["i5-6600k", "ryzen 5 1600"],
+      "gpu": ["gtx 1050 ti", "rx 580"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i5-9600k", "ryzen 5 3600"],
+      "gpu": ["rtx 2070", "rx 5700 xt"],
+      "vram": 8192
+    }
+  },
+
+  "resident evil 9": {
+    "name": "Resident Evil 9: Requiem",
+    "year": 2026,
+    "genre": ["horror", "action"],
+    "storage_gb": 100,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "modern", "heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-8400", "ryzen 5 2600"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-12700k", "ryzen 7 5800x"],
+      "gpu": ["rtx 3070", "rx 6800"],
+      "vram": 12288
+    }
+  },
+
+  "metal gear solid delta": {
+    "name": "Metal Gear Solid Delta: Snake Eater",
+    "year": 2025,
+    "genre": ["action", "stealth"],
+    "storage_gb": 100,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "modern"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-8400", "ryzen 5 2600"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-12700k", "ryzen 7 5800x"],
+      "gpu": ["rtx 3070", "rx 6800"],
+      "vram": 12288
+    }
+  },
+
+  "silent hill f": {
+    "name": "Silent Hill f",
+    "year": 2025,
+    "genre": ["horror"],
+    "storage_gb": 80,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "modern"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-8400", "ryzen 5 2600"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7", "ryzen 7"],
+      "gpu": ["rtx 3070", "rx 6800"],
+      "vram": 12288
+    }
+  },
+
+  "ghost of yotei": {
+    "name": "Ghost of Yotei",
+    "year": 2025,
+    "genre": ["open world", "action"],
+    "storage_gb": 90,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "next-gen"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-9600k", "ryzen 5 3600"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-12700k", "ryzen 7 5800x"],
+      "gpu": ["rtx 3070", "rx 6800"],
+      "vram": 12288
+    }
+  },
+
+  "oblivion remastered": {
+    "name": "The Elder Scrolls IV: Oblivion Remastered",
+    "year": 2025,
+    "genre": ["rpg", "open world"],
+    "storage_gb": 120,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "remaster", "modern"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5", "ryzen 5"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7", "ryzen 7"],
+      "gpu": ["rtx 3070", "rx 6800"],
+      "vram": 12288
+    }
+  },
+
+  "ninja gaiden 4": {
+    "name": "Ninja Gaiden 4",
+    "year": 2025,
+    "genre": ["action"],
+    "storage_gb": 70,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "modern"],
+
+    "performance": {
+      "low": 60,
+      "medium": 90,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5", "ryzen 5"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7", "ryzen 7"],
+      "gpu": ["rtx 3070", "rx 6800"],
+      "vram": 12288
+    }
+  },
+
+  "clair obscur expedition 33": {
+    "name": "Clair Obscur: Expedition 33",
+    "year": 2025,
+    "genre": ["rpg"],
+    "storage_gb": 60,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "modern"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5", "ryzen 5"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7", "ryzen 7"],
+      "gpu": ["rtx 3070", "rx 6800"],
+      "vram": 12288
+    }
+  },
+
+  "tony hawk pro skater 3+4": {
+    "name": "Tony Hawk's Pro Skater 3 + 4",
+    "year": 2025,
+    "genre": ["sports"],
+    "storage_gb": 30,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["light", "modern"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 144
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i3", "ryzen 3"],
+      "gpu": ["gtx 970", "rx 570"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i5", "ryzen 5"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    }
+  },
+
+  "wuchang fallen feathers": {
+    "name": "Wuchang: Fallen Feathers",
+    "year": 2025,
+    "genre": ["action", "rpg"],
+    "storage_gb": 80,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "modern", "souls-like"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-8400", "ryzen 5 2600"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-12700k", "ryzen 7 5800x"],
+      "gpu": ["rtx 3070", "rx 6800"],
+      "vram": 12288
+    }
+  },
+
+  "battlefield 6": {
+    "name": "Battlefield 6",
+    "year": 2025,
+    "genre": ["fps", "multiplayer"],
+    "storage_gb": 120,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "cpu-heavy", "online", "modern"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-9600k", "ryzen 5 3600"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-12700k", "ryzen 7 5800x"],
+      "gpu": ["rtx 3080", "rx 6800 xt"],
+      "vram": 12288
+    }
+  },
+
+  "the last of us part 1": {
+    "name": "The Last of Us Part I",
+    "year": 2023,
+    "genre": ["action", "adventure"],
+    "storage_gb": 100,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "cpu-heavy", "poor-optimization"],
+
+    "performance": {
+      "low": 30,
+      "medium": 45,
+      "high": 60
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-8400", "ryzen 5 2600"],
+      "gpu": ["gtx 970", "rx 470"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-8700", "ryzen 5 3600"],
+      "gpu": ["rtx 3060", "rx 5700"],
+      "vram": 8192
+    }
+  },
+
+  "the last of us part 2": {
+    "name": "The Last of Us Part II Remastered",
+    "year": 2025,
+    "genre": ["action", "adventure"],
+    "storage_gb": 120,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "cpu-heavy", "modern"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-9600k", "ryzen 5 3600"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 8192
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-12700k", "ryzen 7 5800x"],
+      "gpu": ["rtx 3070", "rx 6800"],
+      "vram": 12288
+    }
+  },
+
+  "mirrors edge catalyst": {
+    "name": "Mirror's Edge Catalyst",
+    "year": 2016,
+    "genre": ["action", "parkour"],
+    "storage_gb": 25,
+    "os": ["windows 10"],
+    "tags": ["gpu-heavy", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 6,
+      "cpu": ["i3-3250", "fx-6350"],
+      "gpu": ["gtx 650 ti", "radeon r9 270x"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7-4790", "fx-8350"],
+      "gpu": ["gtx 970", "r9 280x"],
+      "vram": 4096
+    }
+  },
+
+  "watch dogs": {
+    "name": "Watch Dogs",
+    "year": 2014,
+    "genre": ["open world", "action"],
+    "storage_gb": 25,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["cpu-heavy", "medium"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 6,
+      "cpu": ["i5-2400", "fx-6120"],
+      "gpu": ["gtx 460", "radeon hd 5850"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7", "fx-8350"],
+      "gpu": ["gtx 760", "r9 280x"],
+      "vram": 2048
+    }
+  },
+
+  "watch dogs 2": {
+    "name": "Watch Dogs 2",
+    "year": 2016,
+    "genre": ["open world", "action"],
+    "storage_gb": 50,
+    "os": ["windows 10"],
+    "tags": ["gpu-heavy", "cpu-heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2400", "fx-6120"],
+      "gpu": ["gtx 660", "r9 270"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-4770", "ryzen 5 1600"],
+      "gpu": ["gtx 1060", "rx 480"],
+      "vram": 4096
+    }
+  },
+
+  "watch dogs legion": {
+    "name": "Watch Dogs: Legion",
+    "year": 2020,
+    "genre": ["open world", "action"],
+    "storage_gb": 80,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "cpu-heavy", "modern"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-4460", "ryzen 5 1400"],
+      "gpu": ["gtx 970", "rx 470"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-9700k", "ryzen 5 3600"],
+      "gpu": ["rtx 2060", "rx 5700"],
+      "vram": 8192
+    }
+  },
+
+  "half life": {
+    "name": "Half-Life",
+    "year": 1998,
+    "genre": ["fps"],
+    "storage_gb": 1,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["very-light", "classic"],
+
+    "performance": {
+      "low": 200,
+      "medium": 300,
+      "high": 500
+    },
+
+    "min": {
+      "ram": 0.128,
+      "cpu": ["pentium"],
+      "gpu": ["integrated"],
+      "vram": 16
+    },
+
+    "rec": {
+      "ram": 0.256,
+      "cpu": ["pentium ii"],
+      "gpu": ["integrated"],
+      "vram": 32
+    }
+  },
+
+  "half life 2": {
+    "name": "Half-Life 2",
+    "year": 2004,
+    "genre": ["fps"],
+    "storage_gb": 6,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["very-light", "classic", "well-optimized"],
+
+    "performance": {
+      "low": 100,
+      "medium": 200,
+      "high": 300
+    },
+
+    "min": {
+      "ram": 0.512,
+      "cpu": ["pentium 4"],
+      "gpu": ["directx 8 gpu"],
+      "vram": 64
+    },
+
+    "rec": {
+      "ram": 1,
+      "cpu": ["core 2 duo"],
+      "gpu": ["directx 9 gpu"],
+      "vram": 128
+    }
+  },
+
+  "half life 2 episode 1": {
+    "name": "Half-Life 2: Episode One",
+    "year": 2006,
+    "genre": ["fps"],
+    "storage_gb": 4,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["very-light", "dlc"],
+
+    "performance": {
+      "low": 100,
+      "medium": 200,
+      "high": 300
+    },
+
+    "min": {
+      "ram": 0.512,
+      "cpu": ["pentium 4"],
+      "gpu": ["directx 9 gpu"],
+      "vram": 64
+    },
+
+    "rec": {
+      "ram": 1,
+      "cpu": ["core 2 duo"],
+      "gpu": ["directx 9 gpu"],
+      "vram": 128
+    }
+  },
+
+  "half life 2 episode 2": {
+    "name": "Half-Life 2: Episode Two",
+    "year": 2007,
+    "genre": ["fps"],
+    "storage_gb": 6,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["very-light", "dlc"],
+
+    "performance": {
+      "low": 100,
+      "medium": 200,
+      "high": 300
+    },
+
+    "min": {
+      "ram": 0.512,
+      "cpu": ["pentium 4"],
+      "gpu": ["directx 9 gpu"],
+      "vram": 64
+    },
+
+    "rec": {
+      "ram": 1,
+      "cpu": ["core 2 duo"],
+      "gpu": ["directx 9 gpu"],
+      "vram": 128
+    }
+  },
+
+  "the witcher": {
+    "name": "The Witcher",
+    "year": 2007,
+    "genre": ["rpg"],
+    "storage_gb": 15,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["light", "classic"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 1,
+      "cpu": ["pentium 4"],
+      "gpu": ["radeon 9600", "geforce 6600"],
+      "vram": 128
+    },
+
+    "rec": {
+      "ram": 2,
+      "cpu": ["core 2 duo"],
+      "gpu": ["geforce 7900"],
+      "vram": 256
+    }
+  },
+
+  "the witcher 2": {
+    "name": "The Witcher 2: Assassins of Kings",
+    "year": 2011,
+    "genre": ["rpg"],
+    "storage_gb": 25,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["gpu-heavy", "medium"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["core 2 duo"],
+      "gpu": ["gtx 260", "radeon hd 4850"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "the witcher 3": {
+    "name": "The Witcher 3: Wild Hunt",
+    "year": 2015,
+    "genre": ["rpg", "open world"],
+    "storage_gb": 50,
+    "os": ["windows 10"],
+    "tags": ["gpu-heavy", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 6,
+      "cpu": ["i5-2500k", "fx-6300"],
+      "gpu": ["gtx 660", "radeon hd 7870"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7", "ryzen 5"],
+      "gpu": ["gtx 970", "rx 480"],
+      "vram": 4096
+    }
+  },
+
+  "left 4 dead": {
+    "name": "Left 4 Dead",
+    "year": 2008,
+    "genre": ["fps", "co-op"],
+    "storage_gb": 8,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["very-light", "classic"],
+
+    "performance": {
+      "low": 100,
+      "medium": 200,
+      "high": 300
+    },
+
+    "min": {
+      "ram": 1,
+      "cpu": ["pentium 4"],
+      "gpu": ["directx 9 gpu"],
+      "vram": 128
+    },
+
+    "rec": {
+      "ram": 2,
+      "cpu": ["core 2 duo"],
+      "gpu": ["geforce 8600"],
+      "vram": 256
+    }
+  },
+
+  "left 4 dead 2": {
+    "name": "Left 4 Dead 2",
+    "year": 2009,
+    "genre": ["fps", "co-op"],
+    "storage_gb": 15,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["very-light", "well-optimized"],
+
+    "performance": {
+      "low": 100,
+      "medium": 200,
+      "high": 300
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["pentium 4"],
+      "gpu": ["directx 9 gpu"],
+      "vram": 128
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo"],
+      "gpu": ["geforce 8800"],
+      "vram": 256
+    }
+  },
+
+  "portal": {
+    "name": "Portal",
+    "year": 2007,
+    "genre": ["puzzle"],
+    "storage_gb": 4,
+    "os": ["windows xp", "windows 7", "windows 10"],
+    "tags": ["very-light", "classic"],
+
+    "performance": {
+      "low": 150,
+      "medium": 300,
+      "high": 500
+    },
+
+    "min": {
+      "ram": 0.512,
+      "cpu": ["pentium 4"],
+      "gpu": ["directx 9 gpu"],
+      "vram": 64
+    },
+
+    "rec": {
+      "ram": 1,
+      "cpu": ["core 2 duo"],
+      "gpu": ["geforce 7600"],
+      "vram": 128
+    }
+  },
+
+  "portal 2": {
+    "name": "Portal 2",
+    "year": 2011,
+    "genre": ["puzzle"],
+    "storage_gb": 10,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["very-light", "well-optimized"],
+
+    "performance": {
+      "low": 100,
+      "medium": 200,
+      "high": 300
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo"],
+      "gpu": ["geforce 7600"],
+      "vram": 128
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["i3"],
+      "gpu": ["gtx 460"],
+      "vram": 512
+    }
+  },
+
+  "skyrim": {
+    "name": "The Elder Scrolls V: Skyrim",
+    "year": 2011,
+    "genre": ["rpg", "open world"],
+    "storage_gb": 12,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["light", "mod-friendly"],
+
+    "performance": {
+      "low": 60,
+      "medium": 90,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo"],
+      "gpu": ["gtx 260"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["i5"],
+      "gpu": ["gtx 560"],
+      "vram": 1024
+    }
+  },
+
+  "skyrim special edition": {
+    "name": "Skyrim Special Edition",
+    "year": 2016,
+    "genre": ["rpg", "open world"],
+    "storage_gb": 20,
+    "os": ["windows 10"],
+    "tags": ["medium", "remaster"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5"],
+      "gpu": ["gtx 470"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7"],
+      "gpu": ["gtx 780"],
+      "vram": 3072
+    }
+  },
+
+  "borderlands 2": {
+    "name": "Borderlands 2",
+    "year": 2012,
+    "genre": ["fps", "rpg"],
+    "storage_gb": 20,
+    "os": ["windows 7", "windows 10"],
+    "tags": ["medium", "well-optimized"],
+
+    "performance": {
+      "low": 60,
+      "medium": 90,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["dual core"],
+      "gpu": ["gtx 460"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["i5"],
+      "gpu": ["gtx 560"],
+      "vram": 1024
+    }
+  },
+
+  "borderlands 3": {
+    "name": "Borderlands 3",
+    "year": 2019,
+    "genre": ["fps", "rpg"],
+    "storage_gb": 75,
+    "os": ["windows 10"],
+    "tags": ["gpu-heavy", "modern"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 6,
+      "cpu": ["i5-3570"],
+      "gpu": ["gtx 680"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7"],
+      "gpu": ["gtx 1060"],
+      "vram": 4096
+    }
+  },
+
+  "god of war": {
+    "name": "God of War",
+    "year": 2022,
+    "genre": ["action", "adventure"],
+    "storage_gb": 70,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "well-optimized"],
+
+    "performance": {
+      "low": 30,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2500k", "ryzen 3 1200"],
+      "gpu": ["gtx 960", "r9 290x"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-4770k", "ryzen 5 2400g"],
+      "gpu": ["rtx 2060", "rx 5700 xt"],
+      "vram": 8192
+    }
+  },
+
+  "resident evil 0 hd remaster": {
+    "name": "Resident Evil 0 HD Remaster",
+    "year": 2016,
+    "genre": ["survival-horror"],
+    "storage_gb": 13,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["lightweight", "classic"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo 2.4ghz"],
+      "gpu": ["geforce gtx 260", "radeon hd 5770"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad 2.7ghz"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "resident evil hd remaster": {
+    "name": "Resident Evil HD Remaster",
+    "year": 2015,
+    "genre": ["survival-horror"],
+    "storage_gb": 20,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["classic", "well-optimized"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo 2.4ghz"],
+      "gpu": ["geforce gtx 260", "radeon hd 5770"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "resident evil 4": {
+    "name": "Resident Evil 4 (Ultimate HD Edition)",
+    "year": 2014,
+    "genre": ["action", "survival-horror"],
+    "storage_gb": 15,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["classic", "well-optimized"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo 2.4ghz"],
+      "gpu": ["geforce 8800gts", "radeon hd 4850"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "resident evil 5": {
+    "name": "Resident Evil 5",
+    "year": 2009,
+    "genre": ["action", "co-op"],
+    "storage_gb": 15,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["co-op", "lightweight"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo e6600"],
+      "gpu": ["geforce 9800", "radeon hd 4830"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "resident evil 6": {
+    "name": "Resident Evil 6",
+    "year": 2013,
+    "genre": ["action", "co-op"],
+    "storage_gb": 16,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["co-op", "action-heavy"],
+
+    "performance": {
+      "low": 50,
+      "medium": 90,
+      "high": 140
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["core 2 duo 2.4ghz"],
+      "gpu": ["geforce 8800gts", "radeon hd 3850"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "resident evil 7 biohazard": {
+    "name": "Resident Evil 7 Biohazard",
+    "year": 2017,
+    "genre": ["survival-horror", "fps"],
+    "storage_gb": 24,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["horror", "well-optimized"],
+
+    "performance": {
+      "low": 40,
+      "medium": 60,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-4460", "fx-6300"],
+      "gpu": ["gtx 960", "rx 460"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7-3770", "fx-8350"],
+      "gpu": ["gtx 1060", "rx 580"],
+      "vram": 4096
+    }
+  },
+
+  "resident evil revelations": {
+    "name": "Resident Evil Revelations",
+    "year": 2013,
+    "genre": ["survival-horror", "action"],
+    "storage_gb": 8,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["episodic", "well-optimized"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 180
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo 2.4ghz"],
+      "gpu": ["geforce 8800gts", "radeon hd 3850"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 quad"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "resident evil revelations 2": {
+    "name": "Resident Evil Revelations 2",
+    "year": 2015,
+    "genre": ["survival-horror", "co-op"],
+    "storage_gb": 23,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["episodic", "co-op"],
+
+    "performance": {
+      "low": 50,
+      "medium": 90,
+      "high": 140
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["core 2 quad q6600"],
+      "gpu": ["geforce gtx 460", "radeon hd 5770"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5-4570"],
+      "gpu": ["gtx 760", "radeon r9 270x"],
+      "vram": 2048
+    }
+  },
+
+  "resident evil 2 remake": {
+    "name": "Resident Evil 2",
+    "year": 2019,
+    "genre": ["survival-horror"],
+    "storage_gb": 26,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["remake", "well-optimized"],
+
+    "performance": {
+      "low": 45,
+      "medium": 70,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-4460", "fx-6300"],
+      "gpu": ["gtx 960", "rx 460"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-3770", "ryzen 5 1600"],
+      "gpu": ["gtx 1060", "rx 580"],
+      "vram": 4096
+    }
+  },
+
+  "resident evil 3 remake": {
+    "name": "Resident Evil 3",
+    "year": 2020,
+    "genre": ["action", "survival-horror"],
+    "storage_gb": 25,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["remake", "fast-paced"],
+
+    "performance": {
+      "low": 50,
+      "medium": 80,
+      "high": 130
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-4460", "fx-6300"],
+      "gpu": ["gtx 960", "rx 460"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-3770", "ryzen 5 1600"],
+      "gpu": ["gtx 1060", "rx 580"],
+      "vram": 4096
+    }
+  },
+
+  "resident evil village": {
+    "name": "Resident Evil Village",
+    "year": 2021,
+    "genre": ["survival-horror", "fps"],
+    "storage_gb": 28,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["re-engine", "well-optimized"],
+
+    "performance": {
+      "low": 50,
+      "medium": 75,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-7500", "ryzen 3 1200"],
+      "gpu": ["gtx 1050 ti", "rx 560"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-8700", "ryzen 5 3600"],
+      "gpu": ["rtx 2060", "rx 5700"],
+      "vram": 8192
+    }
+  },
+
+  "resident evil 4 remake": {
+    "name": "Resident Evil 4",
+    "year": 2023,
+    "genre": ["action", "survival-horror"],
+    "storage_gb": 67,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["remake", "gpu-heavy"],
+
+    "performance": {
+      "low": 40,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-7500", "ryzen 3 1200"],
+      "gpu": ["gtx 1050 ti", "rx 560"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-8700", "ryzen 5 3600"],
+      "gpu": ["rtx 2060", "rx 5700"],
+      "vram": 8192
+    }
+  },
+
+  "mirrors edge - catalyst": {
+    "name": "Mirror's Edge Catalyst",
+    "year": 2016,
+    "genre": ["action", "parkour", "open-world"],
+    "storage_gb": 25,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["parkour", "gpu-heavy"],
+
+    "performance": {
+      "low": 40,
+      "medium": 70,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 6,
+      "cpu": ["i3-3250", "fx-6350"],
+      "gpu": ["gtx 650 ti", "radeon r9 270x"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7-3770", "fx-8350"],
+      "gpu": ["gtx 970", "radeon r9 280x"],
+      "vram": 4096
+    }
+  },
+
+  "fallout": {
+    "name": "Fallout",
+    "year": 1997,
+    "genre": ["rpg", "turn-based"],
+    "storage_gb": 1,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["classic", "very-lightweight"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 1,
+      "cpu": ["pentium 90mhz"],
+      "gpu": ["integrated"],
+      "vram": 64
+    },
+
+    "rec": {
+      "ram": 2,
+      "cpu": ["pentium ii"],
+      "gpu": ["integrated"],
+      "vram": 128
+    }
+  },
+
+  "fallout 2": {
+    "name": "Fallout 2",
+    "year": 1998,
+    "genre": ["rpg", "turn-based"],
+    "storage_gb": 2,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["classic", "very-lightweight"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 1,
+      "cpu": ["pentium 120mhz"],
+      "gpu": ["integrated"],
+      "vram": 64
+    },
+
+    "rec": {
+      "ram": 2,
+      "cpu": ["pentium ii"],
+      "gpu": ["integrated"],
+      "vram": 128
+    }
+  },
+
+  "fallout tactics": {
+    "name": "Fallout Tactics",
+    "year": 2001,
+    "genre": ["strategy", "rpg"],
+    "storage_gb": 2,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["classic", "tactical"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 1,
+      "cpu": ["pentium ii 300mhz"],
+      "gpu": ["integrated"],
+      "vram": 64
+    },
+
+    "rec": {
+      "ram": 2,
+      "cpu": ["pentium iii"],
+      "gpu": ["integrated"],
+      "vram": 128
+    }
+  },
+
+  "fallout 3": {
+    "name": "Fallout 3",
+    "year": 2008,
+    "genre": ["rpg", "open-world"],
+    "storage_gb": 10,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["open-world", "classic"],
+
+    "performance": {
+      "low": 40,
+      "medium": 70,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["pentium d", "athlon 64 x2"],
+      "gpu": ["geforce 6800", "radeon x850"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "fallout new vegas": {
+    "name": "Fallout: New Vegas",
+    "year": 2010,
+    "genre": ["rpg", "open-world"],
+    "storage_gb": 10,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["open-world", "mod-friendly"],
+
+    "performance": {
+      "low": 40,
+      "medium": 70,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["dual core 2.0ghz"],
+      "gpu": ["geforce 6 series", "radeon x1000"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "fallout 4": {
+    "name": "Fallout 4",
+    "year": 2015,
+    "genre": ["rpg", "open-world"],
+    "storage_gb": 35,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["open-world", "mod-friendly"],
+
+    "performance": {
+      "low": 40,
+      "medium": 70,
+      "high": 110
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2300", "fx-6350"],
+      "gpu": ["gtx 550 ti", "radeon hd 7870"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7-4790", "fx-9590"],
+      "gpu": ["gtx 780", "radeon r9 290x"],
+      "vram": 4096
+    }
+  },
+
+  "fallout 76": {
+    "name": "Fallout 76",
+    "year": 2018,
+    "genre": ["rpg", "online", "open-world"],
+    "storage_gb": 100,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["online", "live-service"],
+
+    "performance": {
+      "low": 35,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-6600k", "ryzen 3 1300x"],
+      "gpu": ["gtx 780", "radeon r9 285"],
+      "vram": 3072
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-4790", "ryzen 5 1500x"],
+      "gpu": ["gtx 970", "radeon r9 290x"],
+      "vram": 4096
+    }
+  },
+
+  "limbo": {
+    "name": "LIMBO",
+    "year": 2011,
+    "genre": ["puzzle", "platformer"],
+    "storage_gb": 1,
+    "os": ["windows 7", "windows 10", "windows 11"],
+    "tags": ["indie", "very-lightweight"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 1,
+      "cpu": ["2.0 ghz"],
+      "gpu": ["integrated"],
+      "vram": 128
+    },
+
+    "rec": {
+      "ram": 2,
+      "cpu": ["dual core 2.5 ghz"],
+      "gpu": ["integrated"],
+      "vram": 256
+    }
+  },
+
+  "payday the heist": {
+    "name": "PAYDAY: The Heist",
+    "year": 2011,
+    "genre": ["fps", "co-op"],
+    "storage_gb": 5,
+    "os": ["windows 7", "windows 10", "windows 11"],
+    "tags": ["co-op", "heist"],
+
+    "performance": {
+      "low": 60,
+      "medium": 100,
+      "high": 150
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["pentium 4 3.0ghz"],
+      "gpu": ["geforce 8800", "radeon hd 2600"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo"],
+      "gpu": ["gtx 560", "radeon hd 6850"],
+      "vram": 1024
+    }
+  },
+
+  "payday 2": {
+    "name": "PAYDAY 2",
+    "year": 2013,
+    "genre": ["fps", "co-op"],
+    "storage_gb": 85,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["co-op", "heist", "mod-friendly"],
+
+    "performance": {
+      "low": 40,
+      "medium": 70,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["core 2 duo 2.4ghz"],
+      "gpu": ["geforce 8800gt", "radeon hd 2600"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5-2400"],
+      "gpu": ["gtx 670", "radeon hd 7870"],
+      "vram": 2048
+    }
+  },
+
+  "payday 3": {
+    "name": "PAYDAY 3",
+    "year": 2023,
+    "genre": ["fps", "co-op"],
+    "storage_gb": 65,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["co-op", "heist", "online"],
+
+    "performance": {
+      "low": 35,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-9400f", "ryzen 5 2600"],
+      "gpu": ["gtx 1650", "rx 580"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-9700k", "ryzen 7 3700x"],
+      "gpu": ["rtx 3060", "rx 6700 xt"],
+      "vram": 8192
+    }
+  },
+
+  "batman arkham origins": {
+    "name": "Batman: Arkham Origins",
+    "year": 2013,
+    "genre": ["action", "adventure"],
+    "storage_gb": 20,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["superhero", "story-rich"],
+
+    "performance": {
+      "low": 50,
+      "medium": 80,
+      "high": 140
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo 2.4ghz"],
+      "gpu": ["geforce 8800gt", "radeon hd 3850"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core i5"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "team fortress 2": {
+    "name": "Team Fortress 2",
+    "year": 2007,
+    "genre": ["fps", "multiplayer"],
+    "storage_gb": 20,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["free-to-play", "lightweight"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["1.7 ghz"],
+      "gpu": ["directx 8 compatible"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["dual core 2.5 ghz"],
+      "gpu": ["gtx 560", "radeon hd 6850"],
+      "vram": 1024
+    }
+  },
+
+  "terraria": {
+    "name": "Terraria",
+    "year": 2011,
+    "genre": ["sandbox", "survival"],
+    "storage_gb": 1,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["very-lightweight", "2d"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["2.0 ghz"],
+      "gpu": ["integrated"],
+      "vram": 128
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["dual core 3.0 ghz"],
+      "gpu": ["integrated"],
+      "vram": 256
+    }
+  },
+
+  "middle earth shadow of mordor": {
+    "name": "Middle-earth: Shadow of Mordor",
+    "year": 2014,
+    "genre": ["action", "open-world"],
+    "storage_gb": 70,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["open-world", "gpu-heavy"],
+
+    "performance": {
+      "low": 35,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 6,
+      "cpu": ["i5-750", "phenom ii x4 965"],
+      "gpu": ["gtx 460", "radeon hd 5850"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7-3770", "fx-8350"],
+      "gpu": ["gtx 660", "radeon hd 7950"],
+      "vram": 2048
+    }
+  },
+
+  "hollow knight": {
+    "name": "Hollow Knight",
+    "year": 2017,
+    "genre": ["metroidvania", "action"],
+    "storage_gb": 9,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["indie", "2d"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["dual core 2.0 ghz"],
+      "gpu": ["integrated"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["dual core 3.0 ghz"],
+      "gpu": ["integrated"],
+      "vram": 1024
+    }
+  },
+
+  "little nightmares": {
+    "name": "Little Nightmares",
+    "year": 2017,
+    "genre": ["puzzle", "horror"],
+    "storage_gb": 10,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["horror", "atmospheric"],
+
+    "performance": {
+      "low": 50,
+      "medium": 80,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["i3"],
+      "gpu": ["gtx 460", "radeon hd 6850"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5"],
+      "gpu": ["gtx 760", "radeon hd 7950"],
+      "vram": 2048
+    }
+  },
+
+  "garrys mod": {
+    "name": "Garry's Mod",
+    "year": 2006,
+    "genre": ["sandbox"],
+    "storage_gb": 20,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["sandbox", "mod-heavy"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["2.0 ghz"],
+      "gpu": ["directx 9 compatible"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["dual core 3.0 ghz"],
+      "gpu": ["gtx 560"],
+      "vram": 1024
+    }
+  },
+
+  "stardew valley": {
+    "name": "Stardew Valley",
+    "year": 2016,
+    "genre": ["simulation", "rpg"],
+    "storage_gb": 1,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["indie", "very-lightweight"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["2.0 ghz"],
+      "gpu": ["integrated"],
+      "vram": 128
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["dual core 2.5 ghz"],
+      "gpu": ["integrated"],
+      "vram": 256
+    }
+  },
+
+  "outlast": {
+    "name": "Outlast",
+    "year": 2013,
+    "genre": ["horror"],
+    "storage_gb": 5,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["horror", "first-person"],
+
+    "performance": {
+      "low": 50,
+      "medium": 80,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["2.2 ghz dual core"],
+      "gpu": ["gtx 460", "radeon hd 6850"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5"],
+      "gpu": ["gtx 760", "radeon hd 7950"],
+      "vram": 2048
+    }
+  },
+
+  "outlast whistleblower": {
+    "name": "Outlast: Whistleblower",
+    "year": 2014,
+    "genre": ["horror"],
+    "storage_gb": 5,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["dlc", "horror"],
+
+    "performance": {
+      "low": 50,
+      "medium": 80,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["2.2 ghz dual core"],
+      "gpu": ["gtx 460", "radeon hd 6850"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5"],
+      "gpu": ["gtx 760", "radeon hd 7950"],
+      "vram": 2048
+    }
+  },
+
+  "outlast 2": {
+    "name": "Outlast 2",
+    "year": 2017,
+    "genre": ["horror"],
+    "storage_gb": 30,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["horror", "gpu-heavy"],
+
+    "performance": {
+      "low": 40,
+      "medium": 70,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["i3-530"],
+      "gpu": ["gtx 260", "radeon hd 4870"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5"],
+      "gpu": ["gtx 660", "radeon hd 7870"],
+      "vram": 2048
+    }
+  },
+
+  "alan wake": {
+    "name": "Alan Wake",
+    "year": 2012,
+    "genre": ["action", "horror"],
+    "storage_gb": 8,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["story-rich", "atmospheric"],
+
+    "performance": {
+      "low": 50,
+      "medium": 80,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["dual core 2.0 ghz"],
+      "gpu": ["gtx 260", "radeon hd 4870"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["i5"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "borderlands": {
+    "name": "Borderlands",
+    "year": 2009,
+    "genre": ["fps", "rpg", "looter-shooter"],
+    "storage_gb": 15,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["co-op", "cel-shaded"],
+
+    "performance": {
+      "low": 50,
+      "medium": 80,
+      "high": 140
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["pentium d 3.0ghz"],
+      "gpu": ["geforce 8600", "radeon hd 2600"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "prey": {
+    "name": "Prey",
+    "year": 2017,
+    "genre": ["fps", "immersive-sim"],
+    "storage_gb": 20,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["immersive-sim", "story-rich"],
+
+    "performance": {
+      "low": 40,
+      "medium": 70,
+      "high": 110
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2400", "fx-8320"],
+      "gpu": ["gtx 660", "radeon hd 7850"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-2600k", "ryzen 5 1600"],
+      "gpu": ["gtx 970", "rx 580"],
+      "vram": 4096
+    }
+  },
+
+  "dishonored": {
+    "name": "Dishonored",
+    "year": 2012,
+    "genre": ["action", "stealth"],
+    "storage_gb": 9,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["stealth", "immersive-sim"],
+
+    "performance": {
+      "low": 50,
+      "medium": 90,
+      "high": 140
+    },
+
+    "min": {
+      "ram": 3,
+      "cpu": ["dual core 3.0 ghz"],
+      "gpu": ["gtx 460", "radeon hd 5850"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["quad core"],
+      "gpu": ["gtx 560", "radeon hd 6950"],
+      "vram": 1024
+    }
+  },
+
+  "dishonored 2": {
+    "name": "Dishonored 2",
+    "year": 2016,
+    "genre": ["action", "stealth"],
+    "storage_gb": 60,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["stealth", "gpu-heavy"],
+
+    "performance": {
+      "low": 35,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2400", "fx-8320"],
+      "gpu": ["gtx 660", "radeon hd 7850"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-4770", "ryzen 5 1600"],
+      "gpu": ["gtx 1060", "rx 480"],
+      "vram": 4096
+    }
+  },
+
+  "dishonored death of the outsider": {
+    "name": "Dishonored: Death of the Outsider",
+    "year": 2017,
+    "genre": ["action", "stealth"],
+    "storage_gb": 32,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["stealth", "standalone-dlc"],
+
+    "performance": {
+      "low": 40,
+      "medium": 65,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2400", "fx-8320"],
+      "gpu": ["gtx 660", "radeon hd 7850"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-4770", "ryzen 5 1600"],
+      "gpu": ["gtx 1060", "rx 480"],
+      "vram": 4096
+    }
+  },
+
+  "control": {
+    "name": "Control",
+    "year": 2019,
+    "genre": ["action", "third-person"],
+    "storage_gb": 42,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["gpu-heavy", "ray-tracing"],
+
+    "performance": {
+      "low": 35,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-4690", "fx-4350"],
+      "gpu": ["gtx 780", "radeon r9 280x"],
+      "vram": 3072
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i5-7600k", "ryzen 5 1600x"],
+      "gpu": ["rtx 2060", "rx 5700"],
+      "vram": 8192
+    }
+  },
+
+  "pubg battlegrounds": {
+    "name": "PUBG: BATTLEGROUNDS",
+    "year": 2017,
+    "genre": ["battle-royale", "fps"],
+    "storage_gb": 50,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["online", "competitive"],
+
+    "performance": {
+      "low": 35,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-4430", "fx-6300"],
+      "gpu": ["gtx 960", "r7 370"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i5-6600k", "ryzen 5 1600"],
+      "gpu": ["gtx 1060", "rx 580"],
+      "vram": 4096
+    }
+  },
+
+  "fortnite": {
+    "name": "Fortnite",
+    "year": 2017,
+    "genre": ["battle-royale", "fps"],
+    "storage_gb": 40,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["online", "free-to-play"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i3-3225"],
+      "gpu": ["intel hd 4000"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i5-7300u", "ryzen 3 3300u"],
+      "gpu": ["gtx 960", "r9 280"],
+      "vram": 2048
+    }
+  },
+
+  "counter-strike 1.6": {
+    "name": "Counter-Strike 1.6",
+    "year": 2000,
+    "genre": ["fps"],
+    "storage_gb": 1,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["classic", "very-lightweight"],
+
+    "performance": {
+      "low": 100,
+      "medium": 200,
+      "high": 300
+    },
+
+    "min": {
+      "ram": 1,
+      "cpu": ["500 mhz"],
+      "gpu": ["integrated"],
+      "vram": 32
+    },
+
+    "rec": {
+      "ram": 2,
+      "cpu": ["1.0 ghz"],
+      "gpu": ["integrated"],
+      "vram": 64
+    }
+  },
+
+  "counter-strike source": {
+    "name": "Counter-Strike: Source",
+    "year": 2004,
+    "genre": ["fps"],
+    "storage_gb": 15,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["classic", "source-engine"],
+
+    "performance": {
+      "low": 80,
+      "medium": 150,
+      "high": 250
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["1.7 ghz"],
+      "gpu": ["directx 8 compatible"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["dual core"],
+      "gpu": ["gtx 560"],
+      "vram": 1024
+    }
+  },
+
+  "counter-strike 2": {
+    "name": "Counter-Strike 2",
+    "year": 2023,
+    "genre": ["fps"],
+    "storage_gb": 35,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["competitive", "source-2"],
+
+    "performance": {
+      "low": 50,
+      "medium": 90,
+      "high": 160
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-7500", "ryzen 3 1200"],
+      "gpu": ["gtx 1050", "rx 560"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i5-9600k", "ryzen 5 3600"],
+      "gpu": ["rtx 2060", "rx 5700"],
+      "vram": 6144
+    }
+  },
+
+  "just cause": {
+    "name": "Just Cause",
+    "year": 2006,
+    "genre": ["action", "open-world"],
+    "storage_gb": 6,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["open-world", "sandbox"],
+
+    "performance": {
+      "low": 50,
+      "medium": 80,
+      "high": 140
+    },
+
+    "min": {
+      "ram": 1,
+      "cpu": ["pentium d"],
+      "gpu": ["geforce 6200"],
+      "vram": 128
+    },
+
+    "rec": {
+      "ram": 2,
+      "cpu": ["dual core"],
+      "gpu": ["gtx 560"],
+      "vram": 512
+    }
+  },
+
+  "just cause 3": {
+    "name": "Just Cause 3",
+    "year": 2015,
+    "genre": ["action", "open-world"],
+    "storage_gb": 60,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["open-world", "gpu-heavy"],
+
+    "performance": {
+      "low": 35,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2500k", "fx-6300"],
+      "gpu": ["gtx 670", "radeon hd 7870"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-3770", "fx-8350"],
+      "gpu": ["gtx 970", "r9 290"],
+      "vram": 4096
+    }
+  },
+
+  "just cause 4": {
+    "name": "Just Cause 4",
+    "year": 2018,
+    "genre": ["action", "open-world"],
+    "storage_gb": 60,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["open-world", "sandbox"],
+
+    "performance": {
+      "low": 40,
+      "medium": 65,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-2400", "fx-6300"],
+      "gpu": ["gtx 760", "r9 270"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-4770", "ryzen 5 1600"],
+      "gpu": ["gtx 1070", "vega 56"],
+      "vram": 8192
+    }
+  },
+
+  "death stranding": {
+    "name": "Death Stranding",
+    "year": 2020,
+    "genre": ["action", "open-world"],
+    "storage_gb": 80,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["cinematic", "well-optimized"],
+
+    "performance": {
+      "low": 50,
+      "medium": 80,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-3470", "ryzen 3 1200"],
+      "gpu": ["gtx 1050 ti", "rx 560"],
+      "vram": 4096
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-3770", "ryzen 5 1600"],
+      "gpu": ["gtx 1060", "rx 590"],
+      "vram": 6144
+    }
+  },
+
+  "mad max": {
+    "name": "Mad Max",
+    "year": 2015,
+    "genre": ["action", "open-world"],
+    "storage_gb": 35,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["open-world", "well-optimized"],
+
+    "performance": {
+      "low": 50,
+      "medium": 80,
+      "high": 120
+    },
+
+    "min": {
+      "ram": 6,
+      "cpu": ["i5-650", "phenom ii x4 965"],
+      "gpu": ["gtx 660", "radeon hd 7870"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i7-3770"],
+      "gpu": ["gtx 760"],
+      "vram": 3072
+    }
+  },
+
+  "mass effect": {
+    "name": "Mass Effect",
+    "year": 2008,
+    "genre": ["rpg", "action"],
+    "storage_gb": 12,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["story-rich", "classic"],
+
+    "performance": {
+      "low": 50,
+      "medium": 90,
+      "high": 140
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["2.4 ghz dual core"],
+      "gpu": ["geforce 6800"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo"],
+      "gpu": ["gtx 560"],
+      "vram": 1024
+    }
+  },
+
+  "mass effect 2": {
+    "name": "Mass Effect 2",
+    "year": 2010,
+    "genre": ["rpg", "action"],
+    "storage_gb": 15,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["story-rich"],
+
+    "performance": {
+      "low": 50,
+      "medium": 90,
+      "high": 140
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["1.8 ghz dual core"],
+      "gpu": ["geforce 6800"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo"],
+      "gpu": ["gtx 560"],
+      "vram": 1024
+    }
+  },
+
+  "mass effect 3": {
+    "name": "Mass Effect 3",
+    "year": 2012,
+    "genre": ["rpg", "action"],
+    "storage_gb": 15,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["story-rich"],
+
+    "performance": {
+      "low": 50,
+      "medium": 90,
+      "high": 140
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["1.8 ghz dual core"],
+      "gpu": ["geforce 6800"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo"],
+      "gpu": ["gtx 560"],
+      "vram": 1024
+    }
+  },
+
+  "crimson desert": {
+    "name": "Crimson Desert",
+    "year": 2025,
+    "genre": ["rpg", "open-world"],
+    "storage_gb": 100,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["next-gen", "gpu-heavy"],
+
+    "performance": {
+      "low": 30,
+      "medium": 50,
+      "high": 90
+    },
+
+    "min": {
+      "ram": 16,
+      "cpu": ["i5-9600k", "ryzen 5 3600"],
+      "gpu": ["rtx 2060", "rx 6600"],
+      "vram": 6144
+    },
+
+    "rec": {
+      "ram": 32,
+      "cpu": ["i7-12700k", "ryzen 7 5800x"],
+      "gpu": ["rtx 3070", "rx 6800 xt"],
+      "vram": 8192
+    }
+  },
+
+  "call of duty": {
+    "name": "Call of Duty",
+    "year": 2003,
+    "genre": ["fps"],
+    "storage_gb": 4,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["classic", "very-lightweight"],
+
+    "performance": {
+      "low": 100,
+      "medium": 200,
+      "high": 300
+    },
+
+    "min": {
+      "ram": 1,
+      "cpu": ["800 mhz"],
+      "gpu": ["integrated"],
+      "vram": 32
+    },
+
+    "rec": {
+      "ram": 2,
+      "cpu": ["1.5 ghz"],
+      "gpu": ["integrated"],
+      "vram": 64
+    }
+  },
+
+  "call of duty 2": {
+    "name": "Call of Duty 2",
+    "year": 2005,
+    "genre": ["fps"],
+    "storage_gb": 5,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["classic"],
+
+    "performance": {
+      "low": 80,
+      "medium": 150,
+      "high": 250
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["1.4 ghz"],
+      "gpu": ["geforce 6600"],
+      "vram": 128
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["dual core"],
+      "gpu": ["gtx 560"],
+      "vram": 512
+    }
+  },
+
+  "call of duty 4 modern warfare": {
+    "name": "Call of Duty 4: Modern Warfare",
+    "year": 2007,
+    "genre": ["fps"],
+    "storage_gb": 8,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["classic", "multiplayer"],
+
+    "performance": {
+      "low": 80,
+      "medium": 140,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["2.4 ghz dual core"],
+      "gpu": ["geforce 6600gt"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo"],
+      "gpu": ["gtx 560"],
+      "vram": 1024
+    }
+  },
+
+  "call of duty world at war": {
+    "name": "Call of Duty: World at War",
+    "year": 2008,
+    "genre": ["fps"],
+    "storage_gb": 12,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["zombies", "classic"],
+
+    "performance": {
+      "low": 70,
+      "medium": 120,
+      "high": 180
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["pentium 4"],
+      "gpu": ["geforce 6600gt"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo"],
+      "gpu": ["gtx 560"],
+      "vram": 1024
+    }
+  },
+
+  "call of duty modern warfare 2": {
+    "name": "Call of Duty: Modern Warfare 2",
+    "year": 2009,
+    "genre": ["fps"],
+    "storage_gb": 12,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["classic", "multiplayer"],
+
+    "performance": {
+      "low": 70,
+      "medium": 120,
+      "high": 180
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["3.0 ghz dual core"],
+      "gpu": ["geforce 8600gt"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["core 2 duo"],
+      "gpu": ["gtx 560"],
+      "vram": 1024
+    }
+  },
+
+  "call of duty black ops": {
+    "name": "Call of Duty: Black Ops",
+    "year": 2010,
+    "genre": ["fps"],
+    "storage_gb": 16,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["zombies", "multiplayer"],
+
+    "performance": {
+      "low": 60,
+      "medium": 100,
+      "high": 160
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo"],
+      "gpu": ["geforce 8600gt"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["quad core"],
+      "gpu": ["gtx 560"],
+      "vram": 1024
+    }
+  },
+
+  "call of duty modern warfare 3": {
+    "name": "Call of Duty: Modern Warfare 3",
+    "year": 2011,
+    "genre": ["fps"],
+    "storage_gb": 16,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["multiplayer"],
+
+    "performance": {
+      "low": 60,
+      "medium": 100,
+      "high": 160
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["core 2 duo"],
+      "gpu": ["geforce 8600gt"],
+      "vram": 256
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["quad core"],
+      "gpu": ["gtx 560"],
+      "vram": 1024
+    }
+  },
+
+  "call of duty black ops 2": {
+    "name": "Call of Duty: Black Ops II",
+    "year": 2012,
+    "genre": ["fps"],
+    "storage_gb": 16,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["zombies", "multiplayer"],
+
+    "performance": {
+      "low": 60,
+      "medium": 100,
+      "high": 160
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["core 2 duo"],
+      "gpu": ["geforce 8800gt"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 6,
+      "cpu": ["quad core"],
+      "gpu": ["gtx 660"],
+      "vram": 1024
+    }
+  },
+
+  "call of duty modern warfare 2019": {
+    "name": "Call of Duty: Modern Warfare",
+    "year": 2019,
+    "genre": ["fps"],
+    "storage_gb": 175,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["warzone", "gpu-heavy"],
+
+    "performance": {
+      "low": 40,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i3-4340", "fx-6300"],
+      "gpu": ["gtx 670", "r9 280"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i5-2500k", "ryzen 5 1600x"],
+      "gpu": ["gtx 1060", "rx 580"],
+      "vram": 4096
+    }
+  },
+
+  "call of duty black ops cold war": {
+    "name": "Call of Duty: Black Ops Cold War",
+    "year": 2020,
+    "genre": ["fps"],
+    "storage_gb": 175,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["zombies", "warzone"],
+
+    "performance": {
+      "low": 40,
+      "medium": 65,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i3-4340", "fx-6300"],
+      "gpu": ["gtx 670", "r9 280"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i5-6600k", "ryzen 5 1600"],
+      "gpu": ["gtx 1060", "rx 580"],
+      "vram": 4096
+    }
+  },
+
+  "call of duty modern warfare 2 2022": {
+    "name": "Call of Duty: Modern Warfare II",
+    "year": 2022,
+    "genre": ["fps"],
+    "storage_gb": 125,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["warzone", "next-gen"],
+
+    "performance": {
+      "low": 40,
+      "medium": 70,
+      "high": 110
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-3570", "ryzen 5 1600"],
+      "gpu": ["gtx 960", "rx 470"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-8700k", "ryzen 7 1800x"],
+      "gpu": ["rtx 3060", "rx 6600 xt"],
+      "vram": 8192
+    }
+  },
+
+  "call of duty ghosts": {
+    "name": "Call of Duty: Ghosts",
+    "year": 2013,
+    "genre": ["fps"],
+    "storage_gb": 40,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["multiplayer"],
+
+    "performance": {
+      "low": 45,
+      "medium": 70,
+      "high": 110
+    },
+
+    "min": {
+      "ram": 6,
+      "cpu": ["i3-530", "phenom ii x4 810"],
+      "gpu": ["gtx 470", "radeon hd 5870"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5-2500k", "fx-8350"],
+      "gpu": ["gtx 760", "radeon r9 270x"],
+      "vram": 2048
+    }
+  },
+
+  "call of duty advanced warfare": {
+    "name": "Call of Duty: Advanced Warfare",
+    "year": 2014,
+    "genre": ["fps"],
+    "storage_gb": 55,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["exo-suit", "multiplayer"],
+
+    "performance": {
+      "low": 45,
+      "medium": 70,
+      "high": 110
+    },
+
+    "min": {
+      "ram": 6,
+      "cpu": ["i3-530", "phenom ii x4 810"],
+      "gpu": ["gtx 470", "radeon hd 5870"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5-2500k", "fx-8350"],
+      "gpu": ["gtx 760", "radeon r9 270x"],
+      "vram": 2048
+    }
+  },
+
+  "call of duty black ops 3": {
+    "name": "Call of Duty: Black Ops III",
+    "year": 2015,
+    "genre": ["fps"],
+    "storage_gb": 100,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["zombies", "multiplayer"],
+
+    "performance": {
+      "low": 40,
+      "medium": 65,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 6,
+      "cpu": ["i3-530", "fx-4100"],
+      "gpu": ["gtx 470", "radeon hd 6970"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5-2500k", "fx-8350"],
+      "gpu": ["gtx 970", "radeon r9 390"],
+      "vram": 4096
+    }
+  },
+
+  "call of duty infinite warfare": {
+    "name": "Call of Duty: Infinite Warfare",
+    "year": 2016,
+    "genre": ["fps"],
+    "storage_gb": 70,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["sci-fi", "multiplayer"],
+
+    "performance": {
+      "low": 40,
+      "medium": 65,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i3-3225", "fx-4350"],
+      "gpu": ["gtx 660", "radeon hd 7850"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-4770", "ryzen 5 1600"],
+      "gpu": ["gtx 1060", "rx 580"],
+      "vram": 4096
+    }
+  },
+
+  "call of duty wwii": {
+    "name": "Call of Duty: WWII",
+    "year": 2017,
+    "genre": ["fps"],
+    "storage_gb": 90,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["ww2", "multiplayer"],
+
+    "performance": {
+      "low": 40,
+      "medium": 65,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i3-3225", "ryzen 5 1400"],
+      "gpu": ["gtx 660", "radeon hd 7850"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 12,
+      "cpu": ["i5-2400", "ryzen 5 1600"],
+      "gpu": ["gtx 1060", "rx 580"],
+      "vram": 4096
+    }
+  },
+
+  "call of duty vanguard": {
+    "name": "Call of Duty: Vanguard",
+    "year": 2021,
+    "genre": ["fps"],
+    "storage_gb": 100,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["ww2", "warzone"],
+
+    "performance": {
+      "low": 40,
+      "medium": 65,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i3-4340", "fx-6300"],
+      "gpu": ["gtx 960", "rx 470"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i5-2500k", "ryzen 5 1600"],
+      "gpu": ["gtx 1060", "rx 580"],
+      "vram": 4096
+    }
+  },
+
+  "call of duty black ops 6": {
+    "name": "Call of Duty: Black Ops 6",
+    "year": 2024,
+    "genre": ["fps"],
+    "storage_gb": 150,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["zombies", "warzone", "next-gen"],
+
+    "performance": {
+      "low": 40,
+      "medium": 65,
+      "high": 110
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-6600", "ryzen 5 1400"],
+      "gpu": ["gtx 960", "rx 470"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-8700k", "ryzen 7 1800x"],
+      "gpu": ["rtx 3060", "rx 6600 xt"],
+      "vram": 8192
+    }
+  },
+
+  "call of duty black ops 7": {
+    "name": "Call of Duty: Black Ops 7",
+    "year": 2025,
+    "genre": ["fps"],
+    "storage_gb": 150,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["zombies", "multiplayer", "next-gen"],
+
+    "performance": {
+      "low": 40,
+      "medium": 65,
+      "high": 110
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-6600", "ryzen 5 1400"],
+      "gpu": ["gtx 970", "rx 470"],
+      "vram": 3072
+    },
+
+    "rec": {
+      "ram": 12,
+      "cpu": ["i7-6700k", "ryzen 5 1600x"],
+      "gpu": ["rtx 3060", "rx 6600 xt"],
+      "vram": 8192
+    }
+  },
+
+  "dota 2": {
+    "name": "Dota 2",
+    "year": 2013,
+    "genre": ["moba", "strategy"],
+    "storage_gb": 60,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["free-to-play", "competitive"],
+
+    "performance": {
+      "low": 60,
+      "medium": 100,
+      "high": 160
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["dual core 2.8ghz"],
+      "gpu": ["geforce 8600", "radeon hd 2600"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5"],
+      "gpu": ["gtx 750 ti"],
+      "vram": 2048
+    }
+  },
+
+  "apex legends": {
+    "name": "Apex Legends",
+    "year": 2020,
+    "genre": ["fps", "battle-royale"],
+    "storage_gb": 75,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["online", "competitive", "free-to-play"],
+
+    "performance": {
+      "low": 50,
+      "medium": 90,
+      "high": 140
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i3-6300", "fx-4350"],
+      "gpu": ["gtx 950", "radeon hd 7790"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i5-3570k", "ryzen 5 1600"],
+      "gpu": ["gtx 1060", "rx 580"],
+      "vram": 4096
+    }
+  },
+
+  "rust": {
+    "name": "Rust",
+    "year": 2018,
+    "genre": ["survival", "multiplayer"],
+    "storage_gb": 25,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["online", "hardcore", "base-building"],
+
+    "performance": {
+      "low": 35,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 10,
+      "cpu": ["i7-3770", "fx-9590"],
+      "gpu": ["gtx 670", "radeon hd 7970"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i7-4790k", "ryzen 5 2600"],
+      "gpu": ["gtx 1070", "rx 580"],
+      "vram": 8192
+    }
+  },
+
+  "slay the spire 2": {
+    "name": "Slay the Spire 2",
+    "year": 2025,
+    "genre": ["card", "roguelike"],
+    "storage_gb": 8,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["indie", "deckbuilder"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["dual core"],
+      "gpu": ["integrated"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5"],
+      "gpu": ["integrated"],
+      "vram": 1024
+    }
+  },
+
+  "bongo cat": {
+    "name": "Bongo Cat",
+    "year": 2025,
+    "genre": ["casual", "idle"],
+    "storage_gb": 1,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["very-lightweight", "idle", "fun"],
+
+    "performance": {
+      "low": 200,
+      "medium": 300,
+      "high": 500
+    },
+
+    "min": {
+      "ram": 2,
+      "cpu": ["1.0 ghz"],
+      "gpu": ["integrated"],
+      "vram": 64
+    },
+
+    "rec": {
+      "ram": 4,
+      "cpu": ["dual core"],
+      "gpu": ["integrated"],
+      "vram": 128
+    }
+  },
+
+  "warspear online": {
+    "name": "Warspear Online",
+    "year": 2015,
+    "genre": ["mmorpg"],
+    "storage_gb": 1,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["free-to-play", "very-lightweight"],
+
+    "performance": {
+      "low": 60,
+      "medium": 120,
+      "high": 200
+    },
+
+    "min": {
+      "ram": 1,
+      "cpu": ["1.0 ghz"],
+      "gpu": ["integrated"],
+      "vram": 64
+    },
+
+    "rec": {
+      "ram": 2,
+      "cpu": ["dual core"],
+      "gpu": ["integrated"],
+      "vram": 128
+    }
+  },
+
+  "no man's sky": {
+    "name": "No Man's Sky",
+    "year": 2016,
+    "genre": ["survival", "exploration"],
+    "storage_gb": 20,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["open-world", "procedural"],
+
+    "performance": {
+      "low": 40,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i3", "ryzen 3"],
+      "gpu": ["gtx 480", "radeon hd 7870"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i5", "ryzen 5"],
+      "gpu": ["gtx 1060", "rx 580"],
+      "vram": 4096
+    }
+  },
+
+  "euro truck simulator 2": {
+    "name": "Euro Truck Simulator 2",
+    "year": 2012,
+    "genre": ["simulation"],
+    "storage_gb": 20,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["simulation", "relaxing"],
+
+    "performance": {
+      "low": 50,
+      "medium": 80,
+      "high": 140
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["dual core 2.4 ghz"],
+      "gpu": ["geforce gts 450"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5"],
+      "gpu": ["gtx 760"],
+      "vram": 2048
+    }
+  },
+
+  "peak": {
+    "name": "Peak",
+    "year": 2024,
+    "genre": ["indie", "simulation"],
+    "storage_gb": 6,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["indie", "stylized"],
+
+    "performance": {
+      "low": 60,
+      "medium": 100,
+      "high": 160
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["i3"],
+      "gpu": ["integrated"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5"],
+      "gpu": ["gtx 750 ti"],
+      "vram": 2048
+    }
+  },
+
+  "dead by daylight": {
+    "name": "Dead by Daylight",
+    "year": 2016,
+    "genre": ["horror", "multiplayer"],
+    "storage_gb": 50,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["online", "asymmetrical"],
+
+    "performance": {
+      "low": 40,
+      "medium": 60,
+      "high": 100
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i3-4170"],
+      "gpu": ["gtx 460"],
+      "vram": 1024
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5-4670"],
+      "gpu": ["gtx 760"],
+      "vram": 2048
+    }
+  },
+
+  "warframe": {
+    "name": "Warframe",
+    "year": 2013,
+    "genre": ["action", "looter-shooter"],
+    "storage_gb": 50,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["free-to-play", "online"],
+
+    "performance": {
+      "low": 50,
+      "medium": 90,
+      "high": 140
+    },
+
+    "min": {
+      "ram": 4,
+      "cpu": ["dual core 2.2 ghz"],
+      "gpu": ["directx 10 compatible"],
+      "vram": 512
+    },
+
+    "rec": {
+      "ram": 8,
+      "cpu": ["i5"],
+      "gpu": ["gtx 750 ti"],
+      "vram": 2048
+    }
+  },
+
+  "sunset overdrive": {
+    "name": "Sunset Overdrive",
+    "year": 2018,
+    "genre": ["action", "open-world"],
+    "storage_gb": 30,
+    "os": ["windows 10", "windows 11"],
+    "tags": ["stylized", "fast-paced"],
+
+    "performance": {
+      "low": 40,
+      "medium": 70,
+      "high": 110
+    },
+
+    "min": {
+      "ram": 8,
+      "cpu": ["i5-3470"],
+      "gpu": ["gtx 660"],
+      "vram": 2048
+    },
+
+    "rec": {
+      "ram": 16,
+      "cpu": ["i5-4690", "ryzen 5 1600"],
+      "gpu": ["gtx 970"],
+      "vram": 4096
+    }
+  }
+}
